@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f91d9e1-a55a-456d-8e5e-06db3e8ea606" name="Default" comment="" />
+    <list default="true" id="9f91d9e1-a55a-456d-8e5e-06db3e8ea606" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/FoodOrderingApp-db/target/" />
     <ignored path="$PROJECT_DIR$/FoodOrderingApp-api/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -322,12 +324,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552399977479</updated>
       <workItem from="1552399980362" duration="14974000" />
-      <workItem from="1552632240484" duration="4967000" />
+      <workItem from="1552632240484" duration="5322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19941000" />
+    <option name="totallyTimeSpent" value="20296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -351,7 +353,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.45261437" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.7091503" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31240544" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
