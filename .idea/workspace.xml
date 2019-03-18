@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f91d9e1-a55a-456d-8e5e-06db3e8ea606" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9f91d9e1-a55a-456d-8e5e-06db3e8ea606" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/FoodOrderingApp-db/target/" />
     <ignored path="$PROJECT_DIR$/FoodOrderingApp-api/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -185,6 +183,43 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="FoodOrderingApp-Backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFoodOrderingApp" type="462c0819:PsiDirectoryNode" />
+              <item name="FoodOrderingApp-db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodOrderingApp-Backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFoodOrderingApp" type="462c0819:PsiDirectoryNode" />
+              <item name="FoodOrderingApp-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodOrderingApp-Backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFoodOrderingApp" type="462c0819:PsiDirectoryNode" />
+              <item name="FoodOrderingApp-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodOrderingApp-Backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFoodOrderingApp" type="462c0819:PsiDirectoryNode" />
+              <item name="FoodOrderingApp-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodOrderingApp-Backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFoodOrderingApp" type="462c0819:PsiDirectoryNode" />
+              <item name="FoodOrderingApp-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodOrderingApp-Backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFoodOrderingApp" type="462c0819:PsiDirectoryNode" />
+              <item name="FoodOrderingApp-service" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -287,12 +322,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552399977479</updated>
       <workItem from="1552399980362" duration="14974000" />
-      <workItem from="1552632240484" duration="3679000" />
+      <workItem from="1552632240484" duration="4686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18653000" />
+    <option name="totallyTimeSpent" value="19660000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
